@@ -26,3 +26,6 @@ document.getElementById("test-user").innerHTML = document.getElementById("test-u
 
 // test-color
 document.getElementById("color-user").innerHTML = "<span>" + nameUser + secondName + prefColor + numberUser + "</span>";
+
+// alert
+alert("Ciao" + nameUser + secondName + prefColor + numberUser);
