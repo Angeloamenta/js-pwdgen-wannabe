@@ -23,3 +23,6 @@ document.getElementById("user-name").innerHTML = "<h1>" + nameUser + secondName 
 
 // test-user
 document.getElementById("test-user").innerHTML = document.getElementById("test-user").innerHTML + nameUser + secondName + prefColor + numberUser;
+
+// test-color
+document.getElementById("color-user").innerHTML = "<span>" + nameUser + secondName + prefColor + numberUser + "</span>";
